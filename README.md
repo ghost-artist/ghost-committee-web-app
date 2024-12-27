@@ -60,4 +60,6 @@ npm run push; # Pushes and deploys a new version of the GAS web-app
 [Firebase](https://console.firebase.google.com/u/0/project/ghost-d319b/overview)
 
 
+## Related Article
 
+[“Put some GAS on it”](https://medium.com/@william.owen.dev/put-some-gas-on-it-51b1612f5444)
