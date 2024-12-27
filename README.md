@@ -35,14 +35,23 @@ npm run dev;  # You can now view the local deployment (But it isn't wrapped in G
 # Which is the Glitch deployment - (Click to see the editor - https://glitch.com/edit/#!/few-right-mandible )
 # If the app ever needs it, go to the terminal in the Glitch editor and run `refresh`
 
-
-
-
+# Update the app specific config for the Google Server
+cd ghost-server-configuration
+clasp login # make sure to have the correct chrome browser open
+npm run push; # Pushes and deploys a new version of the GAS web-app
 
 
 ```
 
+## Links
 
+[GHOST Google Integration Spreadsheet](https://docs.google.com/spreadsheets/d/1sAka-Rs4LhHhkX3J4s7SaDlpIXEdv5R5Qm7meGIL6Wk/edit?gid=0#gid=0)
+
+[GAS Editor](https://script.google.com/u/0/home/projects/1tXR1MZfheGId3kRfpmw4E4SSgdymw21h7lfeQTKdDhRjeQWHVSe86Hn8/edit)
+
+[Google Cloud Project](https://console.cloud.google.com/welcome/new?hl=en&inv=1&invt=AblRKw&project=ghost-d319b)
+
+[Netlify Deployment](https://app.netlify.com/sites/musical-meerkat-beaded/overview)
 
 
 
