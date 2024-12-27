@@ -1,0 +1,6 @@
+[submodule "ghost-glitch-deployment"]
+	path = ghost-glitch-deployment
+	url = https://042e05ef-7e72-41b3-a44f-e16f7cbd6383@api.glitch.com/git/few-right-mandible
+[submodule "ghost-server-configruation"]
+	path = ghost-server-configruation
+	url = https://github.com/williamowen65/ghost-server-configruation.git
