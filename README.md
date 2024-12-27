@@ -20,6 +20,10 @@ This will download 3 repos.
 
 Make sure to run `npm i` in each of those repo.
 
+> IMPORTANT NOTE: If you are cloning this project to a new google account, these steps and links below won't work. They only work for a specific Google account.  
+> Also see the `README.md` associated with each repo. 
+
+
 ## Starting up the project
 
 ```
