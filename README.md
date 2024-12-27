@@ -53,6 +53,11 @@ npm run push; # Pushes and deploys a new version of the GAS web-app
 
 [Netlify Deployment](https://app.netlify.com/sites/musical-meerkat-beaded/overview)
 
+[Glitch Deployment](https://glitch.com/edit/#!/few-right-mandible)
+
+[Squarespace](https://jaguar-sunflower-y9fm.squarespace.com/config/)
+
+[Firebase](https://console.firebase.google.com/u/0/project/ghost-d319b/overview)
 
 
 
