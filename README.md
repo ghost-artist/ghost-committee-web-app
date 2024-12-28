@@ -1,4 +1,4 @@
-# Welcome to my monolith repo
+# Welcome to my monolith repo (Ghost Committee Web App)
 
 I call it that because it is my first repo of git submodules
 
