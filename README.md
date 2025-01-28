@@ -6,7 +6,11 @@ I call it that because it is my first repo of git submodules
 >
 > For a refresher on submodules:  https://www.youtube.com/watch?v=gSlXo2iLBros
 
+Create a submodule
 `git submodule add [git url]`
+
+Keep your submodule up to date with their repos
+`git submodule update --remote --merge`
 
 
 ## To get started run this command with the recurse flag
