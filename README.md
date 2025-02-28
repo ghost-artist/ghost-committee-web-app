@@ -6,19 +6,25 @@ I call it that because it is my first repo of git submodules
 >
 > For a refresher on submodules:  https://www.youtube.com/watch?v=gSlXo2iLBros
 
+Create a submodule
 `git submodule add [git url]`
+
+Keep your submodule up to date with their repos
+`git submodule update --remote --merge`
 
 
 ## To get started run this command with the recurse flag
 
 `git clone https://github.com/williamowen65/ghost-committee-web-app.git --recurse-submodules`
 
-
 This will download 3 repos.
 - 2 root level reops
 - 1 nested repo.
 
 Make sure to run `npm i` in each of those repo.
+
+Also, it may be helpful to make sure each submodule branch is set to `main` rather than being a detatched head.
+
 
 > IMPORTANT NOTE: If you are cloning this project to a new google account, these steps and links below won't work. They only work for a specific Google account.  
 > Also see the `README.md` associated with each repo. 
